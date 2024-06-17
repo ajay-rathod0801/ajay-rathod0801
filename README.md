@@ -8,7 +8,7 @@ I'm passionate about software development, particularly in areas like web develo
 
 💬 Let's discuss tech, innovation, and everything in between!
 
-📫 How to reach me: [Email](mailto:ajay.rathod0801@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ajay-rathod-719b301b8/) | [Portfolio](https://bento.me/ajayrathod)
+📫 How to reach me: [Email](mailto:ajay.rathod0801@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ajay-rathod-719b301b8/) | [Portfolio](https://ajay.advngers.com/)
 
 ## Skills
 Programming Languages: Python, JavaScript, Java
